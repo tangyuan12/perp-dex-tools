@@ -377,3 +377,6 @@ python runbot.py --exchange grvt --ticker BTC --quantity 0.05 --take-profit 0.02
 ## 免责声明
 
 本软件仅供教育和研究目的。加密货币交易涉及重大风险，可能导致重大财务损失。使用风险自负，切勿用您无法承受损失的资金进行交易。
+
+
+test001
